@@ -15,9 +15,11 @@
   --link-color: #035fe6;
   --link-hover-color: #136ff6;
   --background-color: #fff;
+  --background-color-2: cyan;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
   --text-color: #000;
+  --text-color-2: magenta;
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback;
@@ -66,8 +68,8 @@ body {
   margin: 0;
   font-family: var(--body-font-family);
   line-height: 1.6;
-  color: var(--text-color);
-  background-color: var(--background-color);
+  color: var(--text-color-2);
+  background-color: var(--background-color-2);
   display: none;
 }
 
