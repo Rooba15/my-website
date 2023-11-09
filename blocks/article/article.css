@@ -1,0 +1,10 @@
+.article-wrapper{
+    background-color: #fff;
+    padding: 20px;
+}
+.article-body{
+    display: flex;
+}
+.article-body div{
+    width:50%;
+}
